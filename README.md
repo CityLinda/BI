@@ -1,5 +1,5 @@
 # BI
-Python Web Services call to OBIEE BI Publisher via sud
+Python Web Services call to OBIEE BI Publisher via suds
 
 Use Case:
 1. Launching OBIEE BI Publisher bursting reports through web service API, via Python suds.
